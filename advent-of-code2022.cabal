@@ -46,7 +46,9 @@ library
     minisat-solver,
     search-algorithms,
     optics-core,
-    sbv
+    sbv,
+    yaml,
+    aeson
   default-language:    GHC2021
   default-extensions:
     ScopedTypeVariables
@@ -67,6 +69,8 @@ library
     PolyKinds
     TupleSections
     StandaloneDeriving
+    PartialTypeSignatures
+    OverloadedLabels
   ghc-options: -O2 -threaded
 
 executable runner
