@@ -14,7 +14,7 @@ My solutions to the coding problems in Advent of Code 2022.
 - [x] Day 10
 - [x] Day 11
 - [x] Day 12
-- [ ] Day 13
+- [x] Day 13
 - [ ] Day 14
 - [ ] Day 15
 - [ ] Day 16
