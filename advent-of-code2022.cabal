@@ -48,7 +48,8 @@ library
     optics-core,
     sbv,
     yaml,
-    aeson
+    aeson,
+    bitvec
   default-language:    GHC2021
   default-extensions:
     ScopedTypeVariables
